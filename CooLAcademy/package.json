@@ -1,0 +1,19 @@
+{
+  "name": "coolacademy",
+  "version": "1.0.0",
+  "description": "firstapp",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ggttg",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.5",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {}
+}
